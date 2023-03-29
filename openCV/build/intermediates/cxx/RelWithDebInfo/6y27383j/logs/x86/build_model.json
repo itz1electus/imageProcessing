@@ -1,0 +1,171 @@
+{
+  "abi": "X86",
+  "info": {
+    "abi": "X86",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV/.cxx/RelWithDebInfo/6y27383j/x86",
+  "soFolder": "/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV/build/intermediates/cxx/RelWithDebInfo/6y27383j/obj/x86",
+  "soRepublishFolder": "/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV/build/intermediates/cmake/release/obj/x86",
+  "abiPlatformVersion": 21,
+  "cmake": {
+    "effectiveConfiguration": {
+      "inheritEnvironments": [],
+      "variables": []
+    }
+  },
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [
+      "opencv_jni_shared"
+    ],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV/.cxx",
+      "intermediatesBaseFolder": "/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV/build/intermediates",
+      "intermediatesFolder": "/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV/build/intermediates/cxx",
+      "gradleModulePathName": ":openCV",
+      "moduleRootFolder": "/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV",
+      "moduleBuildFile": "/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV/build.gradle",
+      "makeFile": "/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV/libcxx_helper/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "/Users/mustafaariwala/Library/Android/sdk/ndk/23.1.7779620",
+      "ndkVersion": "23.1.7779620",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 31,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30,
+          "S": 31
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/Users/mustafaariwala/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "/Users/mustafaariwala/Library/Android/sdk/cmake/3.18.1/bin/cmake",
+        "minimumCmakeVersion": "3.18.1"
+      },
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/mustafaariwala/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/mustafaariwala/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/mustafaariwala/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/mustafaariwala/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/mustafaariwala/AndroidStudioProjects/imageProcessing",
+        "sdkFolder": "/Users/mustafaariwala/Library/Android/sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": [],
+      "ninjaExe": "/Users/mustafaariwala/Library/Android/sdk/cmake/3.18.1/bin/ninja"
+    },
+    "prefabClassPaths": [],
+    "prefabPackages": [],
+    "prefabPackageConfigurations": [],
+    "stlType": "c++_shared",
+    "optimizationTag": "RelWithDebInfo"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV/.cxx/RelWithDebInfo/6y27383j/prefab/x86",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "6y27383j8163883l5o49a5a85d37604j4f39485b2n4e5s4f3k73n505q36",
+  "configurationArguments": [
+    "-H/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV/libcxx_helper",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_SYSTEM_VERSION\u003d21",
+    "-DANDROID_PLATFORM\u003dandroid-21",
+    "-DANDROID_ABI\u003dx86",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86",
+    "-DANDROID_NDK\u003d/Users/mustafaariwala/Library/Android/sdk/ndk/23.1.7779620",
+    "-DCMAKE_ANDROID_NDK\u003d/Users/mustafaariwala/Library/Android/sdk/ndk/23.1.7779620",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/Users/mustafaariwala/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003d/Users/mustafaariwala/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV/build/intermediates/cxx/RelWithDebInfo/6y27383j/obj/x86",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV/build/intermediates/cxx/RelWithDebInfo/6y27383j/obj/x86",
+    "-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo",
+    "-B/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV/.cxx/RelWithDebInfo/6y27383j/x86",
+    "-GNinja",
+    "-DANDROID_STL\u003dc++_shared"
+  ],
+  "stlLibraryFile": "/Users/mustafaariwala/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+  "intermediatesParentFolder": "/Users/mustafaariwala/AndroidStudioProjects/imageProcessing/openCV/build/intermediates/cxx/RelWithDebInfo/6y27383j"
+}

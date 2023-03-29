@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">imageProcessing</string>
+    <string name="import_image">IMPORT IMAGE</string>
+    <string name="contentDesc">blah</string>
+    <string name="btnText">IMPORT</string>
+    <string name="newBtn">CAMERA</string>
+</resources>
